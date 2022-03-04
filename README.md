@@ -31,7 +31,9 @@ Keterangan kolom pada dataset ini adalah:
 | PURCHASESTRX                   | Number of purchase transactions made                                                                                        |
 | CREDITLIMIT                    | Limit of Credit Card for user                                                                                               |
 | PAYMENTS                       | Amount of Payment done by user                                                                                              |
-| PAYMENTS                       | Minimum amount of payments made by user                                                                                     |
+| MINIMUM_PAYMENTS               | Minimum amount of payments made by user                                                                                     |
+| PRCFULLPAYMENT                 | Percent of full payment paid by user                                                                                        |
+| TENURE                         | Tenure of credit card service for user                                                                                      |
 
 ## Objectives
 
